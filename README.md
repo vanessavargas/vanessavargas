@@ -1,6 +1,6 @@
 ### Hi guys! I'm Vanessa Vargas! ✨
 
-- I’m currently learning HTML/CSS, JavaScript, ReactJS and Kotlin
+- I’m currently learning HTML/CSS, JavaScript and ReactJS.
 - Pronouns: she/her
 <div>
   <a href="https://github.com/VanessaVargas">
@@ -13,7 +13,6 @@
   <img align="center" alt="Vanessa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vanessa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vanessa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vanessa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 </div>
   
   ##
