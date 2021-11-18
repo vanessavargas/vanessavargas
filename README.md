@@ -1,7 +1,11 @@
-### Hi guys! I'm Vanessa Vargas! ✨
+## Hi guys! I'm Vanessa Vargas! ✨
 
-- I’m currently learning HTML/CSS, JavaScript, C e Java.
-- Pronouns: she/her
+A student enthusiast and passionate about technology!!
+- I’m currently learning HTML/CSS, JavaScript, C e Java;
+- I'm have a degree in a System Information, in Unisinos; 
+- I'm undergraduate student of the Internet Systems Technology, in IFRS;
+- And I'm graduate student of the MBA of Project and Agile Methodologies.
+
 <div>
   <a href="https://github.com/VanessaVargas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaVargas&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
