@@ -3,7 +3,6 @@
 A student enthusiast and passionate about technology!!
 - I’m currently learning JavaScript, ReactJS, Java e Spring Boot;
 - I'm have a degree in a System Information, in Unisinos; 
-- I'm undergraduate student of the Internet Systems Technology, in IFRS;
 - And I'm graduate student of the MBA of Project and Agile Methodologies.
 
 <div>
