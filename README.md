@@ -7,8 +7,8 @@ A student enthusiast and passionate about technology!!
 
 <div>
   <a href="https://github.com/VanessaVargas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaVargas&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaVargas&langs_count=4&hide=html,css&theme=buefy&show_icons=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaVargas&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaVargas&langs_count=4&hide=html,css&theme=jolly&show_icons=true&layout=compact"/>
 </div>
 
 <div style="display: inline_block"><br>
