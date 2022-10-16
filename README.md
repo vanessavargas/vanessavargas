@@ -2,8 +2,7 @@
 
 A student enthusiast and passionate about technology!!
 - I’m currently learning JavaScript, ReactJS, TypeScript and NodeJS;
-- I'm have a degree in a System Information, in Unisinos; 
-- And I'm graduate student of the MBA of Project and Agile Methodologies.
+- I'm have a degree in a System Information and a graduate in MBA of Project and Agile Methodologies.
 
 <div>
   <a href="https://github.com/VanessaVargas">
