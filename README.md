@@ -1,8 +1,8 @@
 ## Hi guys! I'm Vanessa Vargas! ✨
 
-A student enthusiast and passionate about technology!!
-- I’m currently learning JavaScript, ReactJS, TypeScript and NodeJS;
-- I'm have a degree in a System Information and a graduate in MBA of Project and Agile Methodologies.
+A enthusiast and passionate about technology!!
+- I’m studying JavaScript, ReactJS, TypeScript and NodeJS;
+- I'm have a degree in a System Information and a graduate in Project and Agile Methodologies.
 
 <div>
   <a href="https://github.com/VanessaVargas">
