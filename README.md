@@ -1,7 +1,10 @@
+![github-img](https://user-images.githubusercontent.com/84294871/197930987-55f144de-b3f8-40da-94c9-7369fbc6f61f.png)
+
 <h1 align="center">Hi 👋, I'm Vanessa!</h1>
 <h3 align="center">A enthusiast and passionate about technology!</h3>
 
-<h3 align="left">About me:</h3>
+<h3 align="left">
+About me:</h3>
 - I’m studying JavaScript, ReactJS, TypeScript and NodeJS; </br>
 - I'm have a degree in a System Information and a graduate in Project and Agile Methodologies; </br>
 - I am a maternity specialist with proven experience in four successful projects :)
@@ -41,4 +44,3 @@
 <div> 
   <a href="https://www.linkedin.com/in/vanessa-vargas4f/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  
