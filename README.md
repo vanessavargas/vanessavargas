@@ -25,6 +25,7 @@ About me:</h3>
   <img align="center" alt="Vanessa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Vanessa-SpringBoot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/> 
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="30" height="30"/> 
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> 
@@ -38,7 +39,7 @@ About me:</h3>
 <div>
   <a href="https://github.com/VanessaVargas">
   <img align="center"  height="160em" src="https://github-readme-stats.vercel.app/api?username=VanessaVargas&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaVargas&langs_count=4&hide=html,css&theme=react&layout=compact"/>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaVargas&langs_count=4&hide=html,css,ejs&theme=react&layout=compact"/>
 </div>
 </br>
 <div> 
