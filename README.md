@@ -38,8 +38,8 @@ About me:</h3>
 </br>
 <div>
   <a href="https://github.com/VanessaVargas">
-  <img align="center"  height="160em" src="https://github-readme-stats.vercel.app/api?username=VanessaVargas&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaVargas&langs_count=4&hide=html,css,ejs&theme=react&layout=compact"/>
+  <img align="center"  height="160em" src="https://github-readme-stats.vercel.app/api?username=vanessavargas&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessavargas&langs_count=4&hide=html,css,ejs&theme=react&layout=compact"/>
 </div>
 </br>
 <div> 
