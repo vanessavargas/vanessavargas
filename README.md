@@ -36,11 +36,25 @@ About me:</h3>
   <img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> 
 </div>
 </br>
-<div>
-  <a href="https://github.com/VanessaVargas">
-  <img align="center"  height="160em" src="https://github-readme-stats.vercel.app/api?username=vanessavargas&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessavargas&langs_count=4&hide=html,css,ejs&theme=react&layout=compact"/>
+
+<div align="center">
+  <picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=vanessavargas&layout=compact&show_icons=true&theme=light&count_private=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanessavargas&show_icons=true" />
+  </picture>
+
+  <picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessavargas&layout=compact&langs_count=6&hide=html,css,ejs&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanessavargas&show_icons=true" />
+  </picture>
 </div>
+  
 </br>
 <div> 
   <a href="https://www.linkedin.com/in/vanessa-vargas4f/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
