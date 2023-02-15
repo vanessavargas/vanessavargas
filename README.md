@@ -1,4 +1,8 @@
-![github-img](https://user-images.githubusercontent.com/84294871/197930987-55f144de-b3f8-40da-94c9-7369fbc6f61f.png)
+<div align="center">
+
+![github-img](https://github.com/vanessavargas/personal-portfolio/blob/master/src/assets/img/about/programmer.gif)
+  
+</div>
 
 <h1 align="center">Hi 👋, I'm Vanessa!</h1>
 <h3 align="center">A enthusiast and passionate about technology!</h3>
