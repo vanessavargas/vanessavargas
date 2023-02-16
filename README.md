@@ -1,6 +1,6 @@
 <div align="center">
 
-![github-img](https://github.com/vanessavargas/personal-portfolio/blob/master/src/assets/img/about/programmer.gif)
+![github-img](https://github.com/vanessavargas/vanessavargas/blob/main/programmer.gif)
   
 </div>
 
