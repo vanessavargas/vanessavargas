@@ -9,7 +9,7 @@
 
 <h3 align="left">
 About me:</h3>
-- I’m studying Java; </br>
+- I’m studying Dart e Flutter; </br>
 - I'm have a degree in a System Information and a graduate in Project and Agile Methodologies; </br>
 - I am a maternity specialist, with proven experience in four successful projects :)
 
@@ -52,7 +52,7 @@ About me:</h3>
 
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessavargas&layout=compact&langs_count=6&hide=html,css,ejs&layout=compact&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessavargas&layout=compact&langs_count=6&hide=html, css, ejs&layout=compact&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=vanessavargas&show_icons=true" />
