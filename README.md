@@ -9,7 +9,7 @@
 
 <h3 align="left">
 About me:</h3>
-- I’m studying Dart e Flutter; </br>
+- I’m studying Dart and Flutter; </br>
 - I'm have a degree in a System Information and a graduate in Project and Agile Methodologies; </br>
 - I am a maternity specialist, with proven experience in four successful projects :)
 
@@ -32,6 +32,7 @@ About me:</h3>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="30" height="30"/> 
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="30" height="30"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> 
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> 
   <img align="center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> 
