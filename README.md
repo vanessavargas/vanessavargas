@@ -63,15 +63,15 @@ About me:</h3>
 <div align="center">
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=vanessavargas&layout=compact&show_icons=true&theme=light&count_private=true"
-    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=vanessavargas&layout=compact&show_icons=true&theme=dark&count_private=true"
+    media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=vanessavargas&show_icons=true" />
   </picture>
 
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessavargas&layout=compact&langs_count=6&hide=html,css,ejs&layout=compact&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessavargas&layout=compact&langs_count=6&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=vanessavargas&show_icons=true" />
