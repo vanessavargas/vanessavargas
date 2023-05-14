@@ -9,9 +9,9 @@
 
 <h3 align="left">
 About me:</h3>
-- I’m studying Flutter; </br>
-- I'm have a degree in a System Information and a graduate in Project and Agile Methodologies; </br>
-- I am a maternity specialist, with proven experience in four successful projects :)
+I have a bachelor's degree in Information Systems and a specialist in Strategic Project Management and Agile Methodologies. In his spare time, apprentice gamer and aspiring Masterchef. Besides being a mother, at all times :)
+
+I'm passionate about technology and recently migrated to development. I love studying, learning and sharing my knowledge.
 
 <h2 align="left">Technologies</h2>
 <div style="display: inline_block; margin-botton: 10px">
