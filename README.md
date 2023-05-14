@@ -9,7 +9,7 @@
 
 <h3 align="left">
 About me:</h3>
-- I’m studying Dart and Flutter; </br>
+- I’m studying Flutter; </br>
 - I'm have a degree in a System Information and a graduate in Project and Agile Methodologies; </br>
 - I am a maternity specialist, with proven experience in four successful projects :)
 
