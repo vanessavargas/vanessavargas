@@ -63,7 +63,7 @@ I'm passionate about technology and recently migrated to development. I love stu
 <div align="center">
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=vanessavargas&layout=compact&show_icons=true&theme=dark&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=vanessavargas&layout=compact&show_icons=true&theme=dark&count_private=true&rank_icon=github"
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=vanessavargas&show_icons=true" />
@@ -71,7 +71,7 @@ I'm passionate about technology and recently migrated to development. I love stu
 
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessavargas&layout=compact&langs_count=6&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessavargas&layout=donut&langs_count=4&theme=dark&hide=html,CSS"
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=vanessavargas&show_icons=true" />
