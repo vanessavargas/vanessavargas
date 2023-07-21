@@ -8,10 +8,11 @@
 <h3 align="center">A enthusiast and passionate about technology!</h3>
 
 <h3 align="left">
-About me:</h3>
-I have a bachelor's degree in Information Systems and a specialist in Strategic Project Management and Agile Methodologies. In his spare time, apprentice gamer and aspiring Masterchef. Besides being a mother, at all times :)
+About me: </h3>
+I have a bachelor's degree in Information Systems and specialize in Strategic Project Management and Agile Methodologies. In my free time, I enjoy gaming and exploring the world of gastronomy. Motherhood is a significant part of my life, and I fully embrace it.
 
-I'm passionate about technology and recently migrated to development. I love studying, learning and sharing my knowledge.
+
+Passionate about technology, I recently transitioned to the field of development. I am enthusiastic about continuous learning and find joy in sharing my knowledge with others.
 
 <h2 align="left">Technologies</h2>
 <div style="display: inline_block; margin-botton: 10px">
