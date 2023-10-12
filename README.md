@@ -63,5 +63,5 @@
 </br>
 <div> 
   <a href="https://www.linkedin.com/in/vanessa-vargas4f/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.behance.net/vanessavargas4f" target="_blank"><img src="https://img.shields.io/badge/-Behance-%230077B5?style=for-the-badge&logo=Behance&logoColor=white" target="_blank"></a> 
-  <a href="https://vanessa-vargas4f.medium.com/" target="_blank"><img src="https://img.shields.io/badge/-Medium-%230077B5?style=for-the-badge&logo=Medium&logoColor=white" target="_blank"></a> 
+  <a href="https://www.behance.net/vanessa-vargas" target="_blank"><img src="https://img.shields.io/badge/-Behance-%230077B5?style=for-the-badge&logo=Behance&logoColor=white" target="_blank"></a> 
+  <a href="https://vanessa-vargas.medium.com/" target="_blank"><img src="https://img.shields.io/badge/-Medium-%230077B5?style=for-the-badge&logo=Medium&logoColor=white" target="_blank"></a> 
