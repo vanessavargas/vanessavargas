@@ -2,7 +2,6 @@
   
 ![GIF](https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif)
 <h1 align="center">Hi 👋, I'm Vanessa!</h1>
-<h3 align="center">An enthusiast and passionate about technology!</h3>
 </div>
 <h3 align="left">
 About me: </h3>
