@@ -1,9 +1,14 @@
 <div align="center">
   
 ![GIF](https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif)
-<h1>👋 I'm Vanessa</h1>
-<p align="center">Technology enthusiast, turning coffee into code. One line at a time!</p>
+<h1 align="center">Hi 👋, I'm Vanessa!</h1>
+<h3 align="center">An enthusiast and passionate about technology!</h3>
 </div>
+<h3 align="left">
+About me: </h3>
+I hold a bachelor's degree in Information Systems and specialize in Strategic Project Management and Agile Methodologies. In my free time, I enjoy gaming and exploring the world of gastronomy. Motherhood is a significant part of my life, and I fully embrace it.
+</br>
+Currently, I work as a full-stack software developer, actively involved in a project utilizing Flutter, C#, and SQL. I believe in continuous learning and find joy in sharing my knowledge with others.
 
 <h2 align="left">Technologies You'll Find Here</h2>
 <div style="display: inline_block; margin-botton: 10px">
