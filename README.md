@@ -5,7 +5,7 @@
 </div>
 <h3 align="left">
 About me: </h3>
-I hold a bachelor's degree in Information Systems and specialize in Strategic Project Management and Agile Methodologies. In my free time, I enjoy gaming and exploring the world of gastronomy. Motherhood is a significant part of my life, and I fully embrace it.
+I hold a bachelor's degree in Information Systems and specialize in Strategic Project Management and Agile Methodologies. In my free time, I dedicate myself to reading, activities that involve nature and my passion for gastronomy, in addition to striving to be a present and attentive mother.
 </br>
 Currently, I work as a full-stack software developer, actively involved in a project utilizing Flutter, C#, and SQL. I believe in continuous learning and find joy in sharing my knowledge with others.
 
