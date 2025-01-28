@@ -41,7 +41,7 @@ Currently, I work as a full-stack software developer, actively involved in a pro
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessavargas&layout=donut&langs_count=5&theme=dark&hide=html,CSS"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessavargas&layout=donut&langs_count=5&theme=light&hide=html,CSS" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessavargas&layout=donut&langs_count=4&theme=light&hide=html,CSS" />
   </picture>
 </div>
   
